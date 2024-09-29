@@ -1,4 +1,4 @@
-<h1>Hi, I'm David Del Valle, an <a href="https://linkedin.com/in/david-del-valle-61aa13164">IT Professional</a>☺</h1>
+<h1>Hi, I'm David, an <a href="https://linkedin.com/in/david-del-valle-61aa13164">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
